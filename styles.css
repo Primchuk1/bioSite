@@ -83,3 +83,24 @@
     margin: auto;
     padding: 30px;
   }
+
+  .column {
+    float: left;
+    padding: 40px;
+  }
+
+  .left {
+    width: 40%;
+  }
+
+  .right {
+    width: 50%;
+  }
+
+  p {
+    text-indent: 25px;
+  }
+
+  h1 {
+    text-align: center;
+  }
