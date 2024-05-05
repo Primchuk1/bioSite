@@ -104,3 +104,8 @@
   h1 {
     text-align: center;
   }
+
+  #contact-me {
+    float: right;
+    margin-right: 10px;
+  }
